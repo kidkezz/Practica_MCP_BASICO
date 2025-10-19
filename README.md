@@ -31,12 +31,16 @@ pip install fastmcp
 
 ## Estructura del Proyecto
 
-"Practica_MCP_BASICO/
-├── server.py # Servidor MCP con endpoints CRUD
-├── database.py # Inicialización de base de datos
-├── test_client.py # Script de pruebas básicas
-├── inventory.db # Base de datos SQLite (se crea automáticamente)
-└── README.md # Este archivo"
+```
+
+Practica_MCP_BASICO/
+├── server.py          \# Servidor MCP con endpoints CRUD
+├── database.py        \# Inicialización de base de datos
+├── test_client.py     \# Script de pruebas básicas
+├── inventory.db       \# Base de datos SQLite (se crea automáticamente)
+└── README.md          \# Este archivo
+
+```
 
 
 ## Uso
