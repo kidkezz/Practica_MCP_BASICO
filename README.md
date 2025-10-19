@@ -10,7 +10,6 @@ Sistema de gestión de inventario construido con FastMCP y SQLite que permite cr
 - Eliminar productos del inventario
 - Listar todos los productos disponibles
 - Base de datos SQLite persistente
-- API compatible con Model Context Protocol
 
 ## Requisitos Previos
 
