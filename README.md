@@ -30,12 +30,13 @@ pip install fastmcp
 **Nota:** SQLite3 viene incluido con Python por defecto, solo se necesita verificar que  si este instalado y que este en el PATH
 
 ## Estructura del Proyecto
-Practica_MCP_BASICO/
+
+"Practica_MCP_BASICO/
 ├── server.py # Servidor MCP con endpoints CRUD
 ├── database.py # Inicialización de base de datos
 ├── test_client.py # Script de pruebas básicas
 ├── inventory.db # Base de datos SQLite (se crea automáticamente)
-└── README.md # Este archivo
+└── README.md # Este archivo"
 
 
 ## Uso
