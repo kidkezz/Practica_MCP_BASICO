@@ -28,8 +28,9 @@ cd inventario-mcp
 
 
 ### 2. Instalar dependencias
+```
 pip install fastmcp
-
+```
 **Nota:** SQLite3 viene incluido con Python por defecto, solo se necesita verificar que  si este instalado y que este en el PATH
 
 ## Estructura del Proyecto
@@ -52,8 +53,9 @@ El servidor se iniciará y esperará conexiones MCP.
 ### Probar el sistema
 
 Ejecuta el script de pruebas:
-
+```
 python test_simple.py
+```
 
 Este script:
 1. Crea varios productos
