@@ -20,8 +20,11 @@ Sistema de gestión de inventario construido con FastMCP y SQLite que permite cr
 
 ### 1. Clonar o descargar el proyecto
 
-git clone <tu-repositorio>
+```
+git clone https://github.com/kidkezz/Practica_MCP_BASICO.git
 cd inventario-mcp
+```
+
 
 
 ### 2. Instalar dependencias
